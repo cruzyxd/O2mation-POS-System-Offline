@@ -1,6 +1,6 @@
 # O2mation POS System Offline
 
-O2mation Â· POS is a fast, offline-ready Point of Sale system designed for supermarkets, retail stores, and small businesses. It features a modern React-based frontend and a Python/Flask backend, ensuring reliability and performance in offline environments.
+O2mation POS System Offline is a fast, offline-ready Point of Sale system designed for supermarkets, retail stores, and small businesses. It features a modern React-based frontend and a Python/Flask backend, ensuring reliability and performance in offline environments.
 
 ## Features
 
