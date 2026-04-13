@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.venv/
+venv/
+env/
+backend/instance/
+backend/app/__pycache__/
+frontend/node_modules/
+frontend/dist/
+desktop/.venv/
+
+# Added
+node_modules/
+dist/
+build/
+.env
+.gemini/
+.vscode/
